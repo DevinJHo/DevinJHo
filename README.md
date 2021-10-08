@@ -1,6 +1,7 @@
 ### Welcome!
 
 This GitHub pages website is a temporary placeholder.
+
 Link to my [LinkedIn](https://www.linkedin.com/in/devinjho/)!
 
 ### Simple and Clean
