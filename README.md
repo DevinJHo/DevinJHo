@@ -1,2 +1,0 @@
-# DevinJHoSiteTemporary
-Github Pages Repository
