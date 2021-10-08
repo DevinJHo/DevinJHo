@@ -1,7 +1,5 @@
-# Devin J Ho
+# Welcome to Devin Ho's Website!
 
-This is a placeholder website.
+This GitHub pages website is a temporary placeholder.
 
-1. One
-2. Two
-3. Three
+[Devin Ho LinkedIn](https://www.linkedin.com/in/devinjho/)
