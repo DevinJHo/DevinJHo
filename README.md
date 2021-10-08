@@ -4,4 +4,11 @@
 
 This GitHub pages website is a temporary placeholder.
 
+
+> When you walk away
+> You don't hear me say please
+> Oh baby, don't go
+> Simple and clean is the way that you're making me feel tonight
+> It's hard to let it go
+
 [Devin Ho LinkedIn](https://www.linkedin.com/in/devinjho/)
